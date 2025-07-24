@@ -86,13 +86,13 @@ The architecture can be easily modified within the code to experiment with diffe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/osu/AI-Powered-Disease-Detection-in-X-Ray-Images.git
+   git clone https://github.com/Pushkar3232/Disease-Diagnosis
    ```
 
 2. Navigate into the directory:
 
    ```bash
-   cd AI-Powered-Disease-Detection-in-X-Ray-Images
+   cd Disease-Diagnosis
    ```
 
 3. Start the training:
